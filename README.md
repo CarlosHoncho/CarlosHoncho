@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @CarlosHoncho
 - 👀 I’m interested in programing and aslo learning more about it.
-- 🌱 I’m currently learning anything.
+- 🌱 I’m currently learning Software.
 - 💞️ I’m looking to collaborate with anyone.
 - 📫 How to reach me git, X, my no: 0794326424
 <!---
